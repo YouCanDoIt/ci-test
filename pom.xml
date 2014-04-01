@@ -10,6 +10,13 @@
   <name>ci-test</name>
   <url>http://maven.apache.org</url>
 
+  <contributors>
+    <contributor>
+      <name>Brad Sullivan</name>
+      <email>w.brad.sullivan@gmail.com</email>
+    </contributor>
+  </contributors> 
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
